@@ -1,0 +1,23 @@
+body {
+    background-color: #123b2a;
+    color: #fff1dc;
+}
+
+h1 {
+    color: #e6c77a;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 25px;
+}
+
+a {
+color: #fff1dc;
+text-decoration: none;
+font-size: 18px;
+font-weight: bold;
+}
